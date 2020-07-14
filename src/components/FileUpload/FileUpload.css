@@ -2,4 +2,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 40px;
+}
+
+.chart-title {
+  font-size: 2rem;
+  margin: 0;
+  text-align: left;
 }
